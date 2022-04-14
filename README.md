@@ -1,5 +1,4 @@
-# misbrands
-The world's most hated IT stickers
+# The world's most hated IT stickers
 
 ![An assortment of various logos that look like other famous brands but actually have their competitors' name](https://pbs.twimg.com/media/EC5sIScWkAIUSen?format=png&name=900x900)
 
